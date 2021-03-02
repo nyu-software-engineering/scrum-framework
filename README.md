@@ -2,7 +2,7 @@
 
 Some notes about the roles, events, and artifacts of the Scrum framework for agile software development.
 
-##References
+## References
 
 - The Scrum Guide, by Ken Schwaber and Jeff Sutherland - http://scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf
 - Lynda.com, Scrum: The Basics - https://www.lynda.com/Business-Skills-tutorials/Scrum-Basics/550619-2.html
