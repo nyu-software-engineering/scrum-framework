@@ -1,2 +1,3 @@
-# scrum-framework
-Notes about how to do teamwork roughly following the Scrum framework
+# Scrum Framework
+
+Some notes about the roles, events, and artifacts of the Scrum framework for agile software development.
