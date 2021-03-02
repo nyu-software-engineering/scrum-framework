@@ -2,6 +2,13 @@
 
 Teams are well-advised to agree upon a written set of norms and rules upon team formation. These are commitments team members make to each other. Some common types of norms are outlined below.
 
+Teams are ideally co-located in the same room or space while they work for fast interactions and rapid team building
+
+- ...or work harder to make sure collaboration takes place with dedicated chat rooms, video conferencing, lots of conference calls
+- ideal size is debatable. Some say 7 members +/- 2... who are these people and what do they know?
+- build a team that has broad knowledge across several areas and deep knowledge in specific areas
+- establish Team Norms early
+
 ## Team values
 
 Important agreements so that everyone knows what is expected of them in terms of responsibility.
