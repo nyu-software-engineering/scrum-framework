@@ -21,11 +21,11 @@ Important agreements so that everyone knows what is expected of them in terms of
 - too long creates overly relaxed mood
 - just right is in the middle... in our case 2 weeks.
 
-## Daily sstandups schedule
+## Daily standups
 
 - what days/times will standups occur and how long do they last
 - members expected to be present synchronously
-- agreement that members will not cover for other members who do not participate`
+- agreement that members will not cover for other members who do not participate
 
 ## Coding standards
 
