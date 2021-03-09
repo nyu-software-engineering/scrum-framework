@@ -1,6 +1,6 @@
 # Scrum Framework
 
-Some notes about the roles, events, and artifacts of the Scrum framework for agile software development.
+Some notes about the roles, events, and artifacts of the Scrum framework for agile software development and using GitHub for Scrum project management.
 
 ## References
 
