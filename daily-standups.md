@@ -63,7 +63,7 @@ Attend standups asynchronously at your and your team's own peril!
 - In emergency cases where synchronous meetings are simply not possible, members may reply to the three standup questions at different times - an asynchronous standup.
 - Asynchronous standups should not occur unless a member has an approved documented absence.
 - Team members in the same time zone should attend the "asynchronous" standup synchronously with one another, even when other members are attending asynchronously.
-- Such standups can be held in a virtual environment, such as Slack or another chat system.
+- Such standups can be held in a virtual environment, such as Slack, Discord, or another chat system.
 - **An asynchronous standup is considered over after 24 hours. If any member has not participated within that time, they are considered absent from the standup.**
 
 ## Grading
