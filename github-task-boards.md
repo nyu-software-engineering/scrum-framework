@@ -30,13 +30,13 @@ Make this into a Scrum-style Task Board by adding the following columns:
 
 Add all User Stories for the given Sprint into the **Sprint Backlog** column.
 
-- If User Stories have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `user story`, and given the proper Sprint [milestone](./github-milestones.md), it is easy to search for them within the Project Board screen using a search term such as, `is:open milestone:"Sprint 1" label:"user story"`
+- If User Stories have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `user story`, and given the proper Sprint [label](./github-milestones#sprint-management), it is easy to search for them within the Project Board screen using a search term such as, `is:open label:"Sprint 1" label:"user story"`
 
 ![Search for user stories for a given Sprint in GitHub](./images/github_search_for_user_stories.png)
 
 Add all Tasks for each User Story into the **To Do** column
 
-- If Tasks have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `task` label and given the proper Sprint [milestone](./github-milestones.md), it is easy to search for them within the Project Board screen using a search term such as, `is:open milestone:"Sprint 1" label:"task"`
+- If Tasks have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `task` label and given the proper Sprint [label](./github-milestones.md), it is easy to search for them within the Project Board screen using a search term such as, `is:open AND label:"Sprint 1" AND label:task`
 
 ![Search for tasks for a given Sprint in GitHub](./images/github_search_for_tasks.png)
 
@@ -53,5 +53,4 @@ Maintain the Task Board as you work on the Sprint.
 Task boards serve as an archive of what was and was not accomplished within each Sprint.
 
 - Leave the task board frozen as-is when a Sprint is completed... do not remove or reposition any issues
-- Follow [the instructions for how to place incomplete User Stories back into the Product Backlog](https://knowledge.kitchen/GitHub_for_team_collaboration#Closing_milestones) using GitHub's labels, but don't remove them from the completed Sprint task board.
 - Making any other changes to the task board after a Sprint has completed could be considered misleading and disingenuous.
