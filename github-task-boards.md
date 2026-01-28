@@ -30,13 +30,13 @@ Make this into a Scrum-style Task Board by adding the following columns:
 
 Add all User Stories for the given Sprint into the **Sprint Backlog** column.
 
-- If User Stories have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `user story`, and given the proper Sprint [label](./github-milestones#sprint-management), it is easy to search for them within the Project Board screen using a search term such as, `is:open label:"Sprint 1" label:"user story"`
+- If User Stories have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `user story`, and given the proper Sprint [label](./github-milestones#sprint-management), it is easy to search for them within the Project Board screen using a search term such as, `label:"Sprint 1" label:"user story"`
 
 ![Search for user stories for a given Sprint in GitHub](./images/github_search_for_user_stories.png)
 
 Add all Tasks for each User Story into the **To Do** column
 
-- If Tasks have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `task` label and given the proper Sprint [label](./github-milestones.md), it is easy to search for them within the Project Board screen using a search term such as, `is:open AND label:"Sprint 1" AND label:task`
+- If Tasks have been entered into GitHub's Issues tracker, properly [labeled](./github-labels.md) with the `task` label and given the proper Sprint [label](./github-milestones.md), it is easy to search for them within the Project Board screen using a search term such as, `label:"Sprint 1" label:task`
 
 ![Search for tasks for a given Sprint in GitHub](./images/github_search_for_tasks.png)
 
