@@ -23,7 +23,7 @@ Make this into a Scrum-style Task Board by adding the following columns:
 1. **Sprint Backlog (User Stories)** - this will contain the User Stories to be done within the given Sprint
 1. **To do (Tasks)** - this will contain the individual tasks that are necessary to implement the User Stories in Sprint Backlog
 1. **In process (Tasks)** - tasks will be moved here from the To Do column once they are actively being worked on
-1. **Awaiting review (Tasks)** - tasks that have been completed but require peer review before merging into the trunk should be moved here
+1. **Awaiting review (Tasks)** - tasks that have been completed but require peer review before merging into the trunk (i.e. `main`/`master` branch) should be moved here
 1. **Done (Tasks)** - tasks will be moved here when they are completed
 
 ## Fill in the Task Board with Issues

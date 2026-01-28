@@ -39,7 +39,7 @@ Important agreements so that everyone knows what is expected of them in terms of
 
 - Designate a code editor and code linter all team members will use to standardize code formatting.
 - Don't over-engineer. Write minimum code to get things working end to end, only then iterate to improve.
-  - Code for each task and spike must be peer-reviewed and pass tests before merging into the `main` branch of code.
+  - Code for each task and spike must be peer-reviewed and pass tests before merging into the `main`/`master` branch of code.
 - Always push working code, if you break the pipeline/build then fix it.
 - Make granular and small commits, per feature or per bug fix.
 - Provide descriptive commit messages.
